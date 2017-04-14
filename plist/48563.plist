@@ -12,7 +12,7 @@
             <key>kind</key>
             <string>software-package</string>
             <key>url</key>
-            <string>http://www.toone.com.cn:8808/itop/v3/mobile/ios/ipa/48563.ipa</string>
+            <string>http://www.toone.com.cn:8808/module-operation!executeOperation?operation=FileDown&amp;token=%7B%22data%22%3A%7B%22dataId%22%3A%228a8196b45b1802a8015b6a6aed087a4f%22%7D%7D</string>
           </dict>
         </array>
         <key>metadata</key>

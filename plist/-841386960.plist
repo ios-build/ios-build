@@ -12,7 +12,7 @@
             <key>kind</key>
             <string>software-package</string>
             <key>url</key>
-            <string>http://www.toone.com.cn:8808/module-operation!executeOperation?operation=FileDown&amp;token=%7B%22data%22%3A%7B%22dataId%22%3A%228a8197b35fe6c454015fe6d8213b12c7%22%7D%7D</string>
+            <string>http://www.toone.com.cn:8808/module-operation!executeOperation?operation=FileDown&amp;token=%7B%22data%22%3A%7B%22dataId%22%3A%228a81a8645fe75cbd015febcd1a73647d%22%7D%7D</string>
           </dict>
         </array>
         <key>metadata</key>

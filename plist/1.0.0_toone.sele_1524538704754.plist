@@ -24,9 +24,9 @@
           <key>kind</key>
           <string>software</string>
           <key>subtitle</key>
-          <string>插件�?��生产模式</string>
+          <string>插件开启生产模式</string>
           <key>title</key>
-          <string>插件�?��生产模式</string>
+          <string>插件开启生产模式</string>
         </dict>
       </dict>
     </array>

@@ -12,21 +12,21 @@
             <key>kind</key>
             <string>software-package</string>
             <key>url</key>
-            <string>http://qiniu.yindangu.com/app/package/1.0.0_toone.fuwuban_1513911076287.ipa</string>
+            <string>http://qiniu.yindangu.com/app/package/1.0.2_toone.yex_1539566625875.ipa</string>
           </dict>
         </array>
         <key>metadata</key>
         <dict>
           <key>bundle-identifier</key>
-          <string>toone.fuwuban</string>
+          <string>toone.yex</string>
           <key>bundle-version</key>
-          <string>1.0.0</string>
+          <string>1.0.2</string>
           <key>kind</key>
           <string>software</string>
           <key>subtitle</key>
-          <string>服务版</string>
+          <string>Yex</string>
           <key>title</key>
-          <string>服务版</string>
+          <string>Yex</string>
         </dict>
       </dict>
     </array>

@@ -12,21 +12,21 @@
             <key>kind</key>
             <string>software-package</string>
             <key>url</key>
-            <string>http://qiniu.yindangu.com/app/package/1.0.9_better.toone_1566972574857.ipa</string>
+            <string>http://qiniu.yindangu.com/app/package/1.0.0_mayq.taobao_1566975704904.ipa</string>
           </dict>
         </array>
         <key>metadata</key>
         <dict>
           <key>bundle-identifier</key>
-          <string>better.toone</string>
+          <string>mayq.taobao</string>
           <key>bundle-version</key>
-          <string>1.0.9</string>
+          <string>1.0.0</string>
           <key>kind</key>
           <string>software</string>
           <key>subtitle</key>
-          <string>性能优化</string>
+          <string>淘宝</string>
           <key>title</key>
-          <string>性能优化</string>
+          <string>淘宝</string>
         </dict>
       </dict>
     </array>

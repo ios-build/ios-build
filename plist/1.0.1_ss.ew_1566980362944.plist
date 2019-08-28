@@ -12,21 +12,21 @@
             <key>kind</key>
             <string>software-package</string>
             <key>url</key>
-            <string>http://qiniu.yindangu.com/app/package/1.1.0_better.toone_1566976519726.ipa</string>
+            <string>http://qiniu.yindangu.com/app/package/1.0.1_ss.ew_1566980362944.ipa</string>
           </dict>
         </array>
         <key>metadata</key>
         <dict>
           <key>bundle-identifier</key>
-          <string>better.toone</string>
+          <string>ss.ew</string>
           <key>bundle-version</key>
-          <string>1.1.0</string>
+          <string>1.0.1</string>
           <key>kind</key>
           <string>software</string>
           <key>subtitle</key>
-          <string>性能优化</string>
+          <string>sss</string>
           <key>title</key>
-          <string>性能优化</string>
+          <string>sss</string>
         </dict>
       </dict>
     </array>
